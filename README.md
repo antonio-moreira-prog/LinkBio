@@ -17,6 +17,8 @@ This project was developed with the following technologies:
 ## :computer: Project
 Developed for a sales instagram page.
 
+<img src="https://github.com/antonio-moreira-prog/LinkBio/blob/master/img/gif-linkBio.gif">
+
 
 ## :scroll: License
 This project is under the MIT license. See the [LICENSE.md] file for more details.
